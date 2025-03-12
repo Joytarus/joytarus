@@ -1,4 +1,5 @@
-## Hi there 👋 My name is Joy Tarus and I am into cyberesecurity.My linkdln user name is Joy TARUS
+## Hi there 👋 My name is Joy Tarus and I am into cyberesecurity.
+## I specialize in API SECURITY , CYBERSECURITY AWARENESS AND AI IN CYBERSECURITY
 - 🔭 I’m currently working on ... API Security and General Cybersecurity Knowledge<br/>
 - 🌱 I’m currently learning ... CompTIA security+<br/>
 -  I make videos about Cybersecurity on instagram (https://www.instagram.com/tarus_joy/?hl=en)
